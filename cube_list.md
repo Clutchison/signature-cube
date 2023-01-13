@@ -1,0 +1,360 @@
+- Champion of the Parish
+- Dauntless Bodyguard
+- Sidewinder Sliver
+- Student of Warfare
+- Thraben Inspector
+- Accorder Paladin
+- Ambitious Farmhand
+- Charming Prince
+- Impostor of the Sixth Pride
+- Knight of Dawn's Light
+- Lion Sash
+- Lone Rider
+- Sinew Sliver
+- Stoneforge Mystic
+- Thalia's Lieutenant
+- Deadeye Harpooner
+- Fairgrounds Warden
+- Flickerwisp
+- Guardian of Faith
+- Knight Exemplar
+- Lancer Sliver
+- Mirror Entity
+- Resplendent Marshal
+- Sylvia Brightspear
+- Bonescythe Sliver
+- Halvar, God of Battle
+- Hero of Bladehold
+- Irregular Cohort
+- Restoration Angel
+- Serra Paragon
+- Ao, the Dawn Sky
+- Cavalier of Dawn
+- Danitha, Benalia's Hope
+- Lena, Selfless Champion
+- Sanctuary Warden
+- Sun Titan
+- Elspeth Tirel
+- Cloudshift
+- Ephemerate
+- March of Otherworldly Light
+- Secure the Wastes
+- And They Shall Know No Fear
+- Rally the Ancestors
+- Crib Swap
+- Eerie Interlude
+- Declaration in Stone
+- Martial Coup
+- Collective Effort
+- Damning Verdict
+- Paladin Class
+- History of Benalia
+- In the Trenches
+- Radiant Destiny
+- Cathars' Crusade
+- Benthic Biomancer
+- Spectral Sailor
+- Brineborn Cutthroat
+- Jace, Vryn's Prodigy
+- Snapcaster Mage
+- Thrummingbird
+- Watcher for Tomorrow
+- Zephyr Sentinel
+- Aether Channeler
+- Brazen Borrower
+- Flux Channeler
+- Gale, Waterdeep Prodigy
+- Nadir Kraken
+- Nimble Obstructionist
+- Sicarian Infiltrator
+- Vendilion Clique
+- Wavebreak Hippocamp
+- Archaeomancer
+- Dreamcaller Siren
+- Ninja of the Deep Hours
+- Orvar, the All-Form
+- Overcharged Amalgam
+- Toothy, Imaginary Friend
+- Venser, Shaper Savant
+- Mulldrifter
+- Vesuvan Shapeshifter
+- Voracious Greatshark
+- Brine Elemental
+- Dream Eater
+- Torrential Gearhulk
+- Opt
+- Pongify
+- Syncopate
+- Censor
+- Counterspell
+- Jwari Disruption
+- Mana Leak
+- Memory Lapse
+- Snap
+- Blur
+- Frantic Search
+- Steady Progress
+- Supreme Will
+- Fact or Fiction
+- Perplexing Test
+- Gitaxian Probe
+- Ponder
+- Serum Visions
+- Chart a Course
+- Tezzeret's Gambit
+- Whelming Wave
+- Treasure Cruise
+- Wizard Class
+- Metallurgic Summonings
+- Cabal Therapist
+- Changeling Outcast
+- Forsworn Paladin
+- Foulmire Knight
+- Hex Parasite
+- Knight of the Ebon Legion
+- Blacklance Paragon
+- Dire Fleet Hoarder
+- Kitesail Freebooter
+- Knight of Dusk's Shadow
+- Nullpriest of Oblivion
+- Order of Midnight
+- Braids, Arisen Nightmare
+- Egon, God of Death
+- Fain, the Broker
+- Liliana's Standard Bearer
+- Midnight Reaper
+- Murderous Rider
+- Necroskitter
+- Oathsworn Knight
+- Phyrexian Crusader
+- Plague Engineer
+- Plaguecrafter
+- Skullport Merchant
+- Vengeful Rebel
+- Graveshifter
+- Grim Hireling
+- Josu Vess, Lich Knight
+- Pitiless Plunderer
+- Soul Snuffers
+- Yawgmoth, Thran Physician
+- Angel of Suffering
+- Cavalier of Night
+- Junji, the Midnight Sky
+- Syr Konrad, the Grim
+- Carnifex Demon
+- Ancient Brass Dragon
+- Fatal Push
+- Tragic Slip
+- Deadly Dispute
+- Nameless Inversion
+- Power Word Kill
+- Bloodline Culling
+- Hero's Downfall
+- Black Sun's Zenith
+- Persist
+- Return from Extinction
+- Sever the Bloodline
+- Crux of Fate
+- Patriarch's Bidding
+- Kindred Dominance
+- Warlock Class
+- Animate Dead
+- Black Market Connections
+- Out of the Tombs
+- Phyrexian Scriptures
+- Shivan Devastator
+- Electrostatic Infantry
+- Goro-Goro, Disciple of Ryusei
+- Hunter Sliver
+- Krark, the Thumbless
+- Lizard Blades
+- Magda, Brazen Outlaw
+- Reckless Fireweaver
+- Rimrock Knight
+- Smoldering Egg
+- Two-Headed Sliver
+- Birgi, God of Storytelling
+- Blade Sliver
+- Breya's Apprentice
+- Captain Lannery Storm
+- Gadrak, the Crown-Scourge
+- Gut, True Soul Zealot
+- Irencrag Pyromancer
+- Professional Face-Breaker
+- Spiteful Sliver
+- Taurean Mauler
+- Xorn
+- Atsushi, the Blazing Sky
+- Magma Sliver
+- Manaform Hellkite
+- Pia and Kiran Nalaar
+- Storm-Kiln Artist
+- Verix Bladewing
+- Volcano Hellion
+- Fortune Thief
+- Goldspan Dragon
+- Urabrask, Heretic Praetor
+- Etali, Primal Storm
+- Khorvath Brightflame
+- Drakuseth, Maw of Flames
+- Akroma, Angel of Fury
+- Galvanic Blast
+- Electrodominance
+- Lightning Strike
+- Thrill of Possibility
+- Chaos Warp
+- Unexpected Windfall
+- Faithless Looting
+- Strike It Rich
+- Crackle with Power
+- Mizzium Mortars
+- Sweltering Suns
+- Hour of Devastation
+- The Reaver Cleaver
+- Descent into Avernus
+- Fable of the Mirror-Breaker
+- Shared Animosity
+- Rain of Riches
+- Joraga Treespeaker
+- Permeating Mass
+- Den Protector
+- Devoted Druid
+- Gemhide Sliver
+- Guardian Gladewalker
+- Manaweft Sliver
+- Masked Vandal
+- Muscle Sliver
+- Reclusive Taxidermist
+- Satyr Wayfinder
+- Venom Sliver
+- Emrakul's Evangel
+- Gwenna, Eyes of Gaea
+- Nissa, Vastwood Seer
+- Omnath, Locus of Mana
+- Pir, Imaginative Rascal
+- Realmwalker
+- Reki, the History of Kamigawa
+- Rishkar, Peema Renegade
+- Tempered Sliver
+- Titania, Voice of Gaea
+- Chameleon Colossus
+- Goreclaw, Terror of Qal Sisma
+- Kolvori, God of Kinship
+- Questing Beast
+- Saryth, the Viper's Fang
+- Thelonite Hermit
+- Toski, Bearer of Secrets
+- Clamavus
+- Defiler of Vigor
+- Verdurous Gearhulk
+- Kogla, the Titan Ape
+- Megantic Sliver
+- Old One Eye
+- Ghalta, Primal Hunger
+- Snakeskin Veil
+- Vastwood Fortification
+- Ancient Animus
+- Inscription of Abundance
+- Beast Within
+- Clear Shot
+- Kamahl's Druidic Vow
+- Bow of Nylea
+- Birthing Pod
+- Hardened Scales
+- Evolutionary Leap
+- Ranger Class
+- Song of the Dryads
+- Pattern of Rebirth
+- Primal Vigor
+- Momentary Blink
+- Monk Class
+- Soulherder
+- Cloudblazer
+- Slitherwisp
+- Nymris, Oona's Trickster
+- Callidus Assassin
+- Kalain, Reclusive Painter
+- Daretti, Ingenious Iconoclast
+- Mayhem Devil
+- Drach'Nyen
+- Bard Class
+- Hajar, Loyal Bodyguard
+- Ruric Thar, the Unbowed
+- Katilda, Dawnhart Prime
+- Battle for Bretagard
+- King Darien XLVIII
+- Knights' Charge
+- Necrotic Sliver
+- Aryel, Knight of Windgrace
+- Sorcerer Class
+- Rowan, Scholar of Sparks
+- Exalted Flamer of Tzeentch
+- Expansion // Explosion
+- Skull Prophet
+- Blex, Vexing Pest
+- Underrealm Lich
+- Hogaak, Arisen Necropolis
+- Cautery Sliver
+- Cloudshredder Sliver
+- Lantern Flare
+- Lavabelly Sliver
+- Hadana's Climb
+- Fathom Mage
+- Roalesk, Apex Hybrid
+- Noble Hierarch
+- Brokers Ascendancy
+- Kess, Dissident Mage
+- Bladecoil Serpent
+- Ziatora, the Incinerator
+- Syr Gwyn, Hero of Ashvale
+- Whirlwind of Thought
+- Muldrotha, the Gravetide
+- Golos, Tireless Pilgrim
+- Kenrith, the Returned King
+- Universal Automaton
+- Metallic Mimic
+- Solemn Simulacrum
+- Traxos, Scourge of Kroog
+- Duplicant
+- Myr Battlesphere
+- Astral Cornucopia
+- Runed Stalactite
+- The Ozolith
+- Blackblade Reforged
+- Hero's Blade
+- Treasure Map
+- Captain's Hook
+- Heirloom Blade
+- Sword of Dungeons & Dragons
+- Sword of Truth and Justice
+- Maskwood Nexus
+- Conjurer's Closet
+- Hallowed Fountain
+- Watery Grave
+- Blood Crypt
+- Stomping Ground
+- Temple Garden
+- Godless Shrine
+- Steam Vents
+- Overgrown Tomb
+- Sacred Foundry
+- Breeding Pool
+- Argoth, Sanctum of Nature
+- Arid Mesa
+- Bloodstained Mire
+- Boseiju, Who Endures
+- Flooded Strand
+- Marsh Flats
+- Misty Rainforest
+- Mutavault
+- Okina, Temple to the Grandfathers
+- Polluted Delta
+- Scalding Tarn
+- Shinka, the Bloodsoaked Keep
+- Sliver Hive
+- Takenuma, Abandoned Mire
+- Tomb Fortress
+- Tyrite Sanctum
+- Verdant Catacombs
+- Windswept Heath
+- Wooded Foothills
