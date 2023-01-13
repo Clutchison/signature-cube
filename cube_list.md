@@ -1,180 +1,168 @@
 - Champion of the Parish
-- Dauntless Bodyguard
-- Sidewinder Sliver
 - Student of Warfare
 - Thraben Inspector
-- Accorder Paladin
+- Usher of the Fallen
 - Ambitious Farmhand
 - Charming Prince
+- Giada, Font of Hope
 - Impostor of the Sixth Pride
 - Knight of Dawn's Light
 - Lion Sash
-- Lone Rider
-- Sinew Sliver
 - Stoneforge Mystic
+- Thalia, Guardian of Thraben
 - Thalia's Lieutenant
 - Deadeye Harpooner
-- Fairgrounds Warden
+- Extraction Specialist
 - Flickerwisp
-- Guardian of Faith
-- Knight Exemplar
-- Lancer Sliver
+- Hallowed Spiritkeeper
+- Inspiring Overseer
 - Mirror Entity
 - Resplendent Marshal
 - Sylvia Brightspear
-- Bonescythe Sliver
+- Felidar Guardian
 - Halvar, God of Battle
 - Hero of Bladehold
-- Irregular Cohort
 - Restoration Angel
 - Serra Paragon
-- Ao, the Dawn Sky
 - Cavalier of Dawn
 - Danitha, Benalia's Hope
-- Lena, Selfless Champion
+- Karmic Guide
+- Reveillark
+- Solitude
+- Harmonious Archon
 - Sanctuary Warden
-- Sun Titan
-- Elspeth Tirel
-- Cloudshift
+- Steel Seraph
+- Defiant Strike
 - Ephemerate
 - March of Otherworldly Light
 - Secure the Wastes
+- Swords to Plowshares
 - And They Shall Know No Fear
-- Rally the Ancestors
-- Crib Swap
-- Eerie Interlude
-- Declaration in Stone
-- Martial Coup
+- Sejiri Shelter
+- Winds of Abandon
 - Collective Effort
-- Damning Verdict
-- Paladin Class
+- By Invitation Only
+- Emeria's Call
 - History of Benalia
 - In the Trenches
-- Radiant Destiny
-- Cathars' Crusade
-- Benthic Biomancer
+- The Fall of Lord Konda
+- Enduring Renewal
+- Elspeth Conquers Death
+- Hedron Crab
 - Spectral Sailor
 - Brineborn Cutthroat
+- Harbinger of the Tides
 - Jace, Vryn's Prodigy
 - Snapcaster Mage
 - Thrummingbird
 - Watcher for Tomorrow
-- Zephyr Sentinel
 - Aether Channeler
 - Brazen Borrower
 - Flux Channeler
 - Gale, Waterdeep Prodigy
-- Nadir Kraken
-- Nimble Obstructionist
-- Sicarian Infiltrator
-- Vendilion Clique
 - Wavebreak Hippocamp
 - Archaeomancer
-- Dreamcaller Siren
-- Ninja of the Deep Hours
+- Master of Waves
 - Orvar, the All-Form
 - Overcharged Amalgam
-- Toothy, Imaginary Friend
+- Thassa, Deep-Dwelling
 - Venser, Shaper Savant
+- Body Double
+- Cavalier of Gales
 - Mulldrifter
-- Vesuvan Shapeshifter
+- Sphinx of Clear Skies
 - Voracious Greatshark
-- Brine Elemental
 - Dream Eater
 - Torrential Gearhulk
-- Opt
-- Pongify
-- Syncopate
-- Censor
+- Jace, Wielder of Mysteries
+- Consider
+- Thought Scour
 - Counterspell
-- Jwari Disruption
 - Mana Leak
 - Memory Lapse
+- Mystic Reflection
+- Narset's Reversal
 - Snap
+- Syncopate
 - Blur
 - Frantic Search
+- Saw It Coming
 - Steady Progress
-- Supreme Will
 - Fact or Fiction
-- Perplexing Test
 - Gitaxian Probe
-- Ponder
 - Serum Visions
 - Chart a Course
 - Tezzeret's Gambit
 - Whelming Wave
+- Time Warp
 - Treasure Cruise
-- Wizard Class
-- Metallurgic Summonings
+- Search for Azcanta
+- Court of Cunning
 - Cabal Therapist
 - Changeling Outcast
+- Evolved Sleeper
 - Forsworn Paladin
-- Foulmire Knight
-- Hex Parasite
-- Knight of the Ebon Legion
 - Blacklance Paragon
 - Dire Fleet Hoarder
 - Kitesail Freebooter
 - Knight of Dusk's Shadow
 - Nullpriest of Oblivion
-- Order of Midnight
-- Braids, Arisen Nightmare
-- Egon, God of Death
+- Scrapheap Scrounger
+- Zulaport Cutthroat
 - Fain, the Broker
-- Liliana's Standard Bearer
+- Hooded Blightfang
 - Midnight Reaper
 - Murderous Rider
 - Necroskitter
-- Oathsworn Knight
+- Ophiomancer
 - Phyrexian Crusader
-- Plague Engineer
-- Plaguecrafter
 - Skullport Merchant
-- Vengeful Rebel
-- Graveshifter
-- Grim Hireling
-- Josu Vess, Lich Knight
+- Varragoth, Bloodsky Sire
+- Woe Strider
+- Xathrid Necromancer
+- Yahenni, Undying Partisan
+- Eradicator Valkyrie
+- Gonti, Lord of Luxury
+- Henrika Domnathi
 - Pitiless Plunderer
-- Soul Snuffers
 - Yawgmoth, Thran Physician
 - Angel of Suffering
-- Cavalier of Night
-- Junji, the Midnight Sky
-- Syr Konrad, the Grim
-- Carnifex Demon
-- Ancient Brass Dragon
+- Doom Whisperer
+- Shriekmaw
+- Skithiryx, the Blight Dragon
+- Noxious Gearhulk
+- Liliana, Dreadhorde General
 - Fatal Push
-- Tragic Slip
 - Deadly Dispute
-- Nameless Inversion
 - Power Word Kill
-- Bloodline Culling
-- Hero's Downfall
-- Black Sun's Zenith
+- Price of Fame
 - Persist
-- Return from Extinction
-- Sever the Bloodline
+- Painful Truths
 - Crux of Fate
-- Patriarch's Bidding
-- Kindred Dominance
-- Warlock Class
-- Animate Dead
+- Incarnation Technique
+- Transmogrant's Crown
+- Bolas's Citadel
+- Dreadhorde Invasion
 - Black Market Connections
 - Out of the Tombs
-- Phyrexian Scriptures
-- Shivan Devastator
+- Rite of Belzenlok
+- Grind // Dust
+- Tomb Fortress
+- Fervent Champion
+- Figure of Destiny
+- Rabbit Battery
+- Soul-Scar Mage
+- Dragonkin Berserker
+- Dreadhorde Arcanist
 - Electrostatic Infantry
 - Goro-Goro, Disciple of Ryusei
-- Hunter Sliver
+- Harmonic Prodigy
 - Krark, the Thumbless
 - Lizard Blades
 - Magda, Brazen Outlaw
-- Reckless Fireweaver
-- Rimrock Knight
 - Smoldering Egg
-- Two-Headed Sliver
+- Young Pyromancer
 - Birgi, God of Storytelling
-- Blade Sliver
 - Breya's Apprentice
 - Captain Lannery Storm
 - Gadrak, the Crown-Scourge
@@ -183,178 +171,190 @@
 - Professional Face-Breaker
 - Spiteful Sliver
 - Taurean Mauler
-- Xorn
 - Atsushi, the Blazing Sky
-- Magma Sliver
-- Manaform Hellkite
 - Pia and Kiran Nalaar
+- Shivan Devastator
 - Storm-Kiln Artist
-- Verix Bladewing
 - Volcano Hellion
-- Fortune Thief
 - Goldspan Dragon
-- Urabrask, Heretic Praetor
+- Kiki-Jiki, Mirror Breaker
+- Mirrorwing Dragon
 - Etali, Primal Storm
 - Khorvath Brightflame
 - Drakuseth, Maw of Flames
-- Akroma, Angel of Fury
-- Galvanic Blast
-- Electrodominance
+- Expedite
+- Lava Dart
+- Lightning Bolt
+- Blades of Velis Vel
+- Fists of Flame
 - Lightning Strike
 - Thrill of Possibility
 - Chaos Warp
-- Unexpected Windfall
 - Faithless Looting
 - Strike It Rich
 - Crackle with Power
-- Mizzium Mortars
-- Sweltering Suns
-- Hour of Devastation
-- The Reaver Cleaver
+- Blasphemous Act
+- Goblin Bombardment
 - Descent into Avernus
 - Fable of the Mirror-Breaker
-- Shared Animosity
 - Rain of Riches
+- Fang of Shigeki
 - Joraga Treespeaker
-- Permeating Mass
-- Den Protector
+- Noble Hierarch
 - Devoted Druid
-- Gemhide Sliver
+- Fauna Shaman
+- Foundation Breaker
+- Fynn, the Fangbearer
 - Guardian Gladewalker
-- Manaweft Sliver
 - Masked Vandal
-- Muscle Sliver
-- Reclusive Taxidermist
-- Satyr Wayfinder
-- Venom Sliver
-- Emrakul's Evangel
+- Paradise Druid
+- Wall of Roots
+- Eternal Witness
 - Gwenna, Eyes of Gaea
-- Nissa, Vastwood Seer
-- Omnath, Locus of Mana
 - Pir, Imaginative Rascal
 - Realmwalker
 - Reki, the History of Kamigawa
-- Rishkar, Peema Renegade
-- Tempered Sliver
-- Titania, Voice of Gaea
+- Scute Swarm
+- Splinterfright
 - Chameleon Colossus
-- Goreclaw, Terror of Qal Sisma
-- Kolvori, God of Kinship
+- Forgotten Ancient
 - Questing Beast
 - Saryth, the Viper's Fang
-- Thelonite Hermit
 - Toski, Bearer of Secrets
 - Clamavus
-- Defiler of Vigor
 - Verdurous Gearhulk
 - Kogla, the Titan Ape
-- Megantic Sliver
-- Old One Eye
+- Titania, Nature's Force
+- Vorinclex, Monstrous Raider
+- Hornet Queen
 - Ghalta, Primal Hunger
+- Woodfall Primus
+- Silkguard
 - Snakeskin Veil
-- Vastwood Fortification
-- Ancient Animus
 - Inscription of Abundance
+- Poison the Blade
 - Beast Within
 - Clear Shot
-- Kamahl's Druidic Vow
+- Awaken the Woods
 - Bow of Nylea
 - Birthing Pod
 - Hardened Scales
-- Evolutionary Leap
 - Ranger Class
+- Teachings of the Kirin
+- Jugan Defends the Temple
 - Song of the Dryads
 - Pattern of Rebirth
-- Primal Vigor
+- Blex, Vexing Pest
+- Chatterfang, Squirrel General
+- Zask, Skittering Swarmlord
+- Boseiju, Who Endures
+- Mistmeadow Witch
 - Momentary Blink
 - Monk Class
 - Soulherder
 - Cloudblazer
 - Slitherwisp
+- Thief of Sanity
+- Fallen Shinobi
 - Nymris, Oona's Trickster
 - Callidus Assassin
 - Kalain, Reclusive Painter
-- Daretti, Ingenious Iconoclast
+- Kolaghan's Command
 - Mayhem Devil
-- Drach'Nyen
+- Falkenrath Aristocrat
+- Murderous Redcap
 - Bard Class
 - Hajar, Loyal Bodyguard
-- Ruric Thar, the Unbowed
+- Wrenn and Six
+- Grumgully, the Generous
+- Omnath, Locus of Rage
 - Katilda, Dawnhart Prime
 - Battle for Bretagard
 - King Darien XLVIII
-- Knights' Charge
-- Necrotic Sliver
-- Aryel, Knight of Windgrace
-- Sorcerer Class
+- Kitchen Finks
+- Knight of Autumn
+- Elas il-Kor, Sadistic Pilgrim
+- Lingering Souls
+- Selfless Glyphweaver
+- Seraph of the Scales
+- Teysa Karlov
+- Balmor, Battlemage Captain
+- Prismari Command
 - Rowan, Scholar of Sparks
-- Exalted Flamer of Tzeentch
 - Expansion // Explosion
-- Skull Prophet
-- Blex, Vexing Pest
+- Thousand-Year Storm
+- Valentin, Dean of the Vein
+- Grist, the Hunger Tide
+- Spider Spawning
 - Underrealm Lich
 - Hogaak, Arisen Necropolis
-- Cautery Sliver
-- Cloudshredder Sliver
-- Lantern Flare
-- Lavabelly Sliver
+- Angelfire Ignition
+- Boros Reckoner
+- Feather, the Redeemed
+- Lorehold Command
+- Velomachus Lorehold
 - Hadana's Climb
-- Fathom Mage
-- Roalesk, Apex Hybrid
-- Noble Hierarch
+- Risen Reef
+- The Bears of Littjara
+- Tamiyo, Compleated Sage
+- Wavesifter
 - Brokers Ascendancy
+- Tetsuo, Imperial Champion
 - Kess, Dissident Mage
-- Bladecoil Serpent
 - Ziatora, the Incinerator
 - Syr Gwyn, Hero of Ashvale
-- Whirlwind of Thought
-- Muldrotha, the Gravetide
-- Golos, Tireless Pilgrim
+- Soulfire Grand Master
 - Kenrith, the Returned King
+- Hangarback Walker
+- Ornithopter
+- Hex Parasite
 - Universal Automaton
-- Metallic Mimic
 - Solemn Simulacrum
-- Traxos, Scourge of Kroog
-- Duplicant
 - Myr Battlesphere
-- Astral Cornucopia
-- Runed Stalactite
+- Retrofitter Foundry
 - The Ozolith
-- Blackblade Reforged
-- Hero's Blade
 - Treasure Map
-- Captain's Hook
+- Ashnod's Altar
 - Heirloom Blade
 - Sword of Dungeons & Dragons
 - Sword of Truth and Justice
 - Maskwood Nexus
-- Conjurer's Closet
+- Kaldra Compleat
+- Mutavault
+- Swarmyard
+- Tyrite Sanctum
 - Hallowed Fountain
+- Hengegate Pathway
+- Clearwater Pathway
 - Watery Grave
+- Blightstep Pathway
 - Blood Crypt
+- Cragcrown Pathway
 - Stomping Ground
+- Branchloft Pathway
 - Temple Garden
+- Brightclimb Pathway
 - Godless Shrine
+- Riverglide Pathway
 - Steam Vents
+- Darkbore Pathway
 - Overgrown Tomb
+- Needleverge Pathway
 - Sacred Foundry
+- Barkchannel Pathway
 - Breeding Pool
-- Argoth, Sanctum of Nature
 - Arid Mesa
 - Bloodstained Mire
-- Boseiju, Who Endures
+- Evolving Wilds
+- Fabled Passage
 - Flooded Strand
 - Marsh Flats
 - Misty Rainforest
-- Mutavault
-- Okina, Temple to the Grandfathers
 - Polluted Delta
+- Prismatic Vista
 - Scalding Tarn
-- Shinka, the Bloodsoaked Keep
-- Sliver Hive
-- Takenuma, Abandoned Mire
-- Tomb Fortress
-- Tyrite Sanctum
+- Terramorphic Expanse
+- Treasure Vault
 - Verdant Catacombs
 - Windswept Heath
 - Wooded Foothills
